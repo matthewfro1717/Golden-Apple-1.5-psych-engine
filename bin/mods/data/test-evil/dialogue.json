@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "descendant-nightmare",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey BoyFriend wanna rap?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "descendant-nightmare",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay >:D (I can't believe that worked)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You are speaking out loud But let's rap anyway"
+		}
+	]
+}
