@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				73846.1538461538,
+				[
+					[
+						"Play Animation",
+						"phone",
+						"dad"
+					]
+				]
+			],
+			[
+				73894.2307692308,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bandu-sad"
+					]
+				]
+			]
+		]
+	}
+}

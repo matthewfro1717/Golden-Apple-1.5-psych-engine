@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				116400,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"15"
+					]
+				]
+			],
+			[
+				152400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"butchatix"
+					]
+				]
+			],
+			[
+				244800,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"15"
+					]
+				]
+			],
+			[
+				286800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"badtrix"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				73770.8333333334,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ringi-cat"
+					]
+				]
+			],
+			[
+				73777.7777777778,
+				[
+					[
+						"Play Animation",
+						"out",
+						"dad"
+					]
+				]
+			],
+			[
+				117333.333333333,
+				[
+					[
+						"Play Animation",
+						"in",
+						"dad"
+					]
+				]
+			],
+			[
+				118533.333333333,
+				[
+					[
+						"flashlol",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ringi-1.5"
+					]
+				]
+			]
+		]
+	}
+}

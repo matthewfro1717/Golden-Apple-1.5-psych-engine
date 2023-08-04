@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-45
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-120
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				120
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-272,
+				-132
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				-10,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scare",
+			"indices": [],
+			"name": "scare0"
+		},
+		{
+			"offsets": [
+				-299,
+				-127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "walk",
+			"indices": [],
+			"name": "Walking0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/main/nice/erung",
+	"position": [
+		-100,
+		100
+	],
+	"healthicon": "errung",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		202,
+		117
+	],
+	"camera_position": [
+		150,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

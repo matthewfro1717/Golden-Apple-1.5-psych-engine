@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambi.png">
+<SubTexture name="annoyed0000" x="0" y="0" width="271" height="304" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="normal0000" x="271" y="0" width="271" height="304" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+<SubTexture name="upset0000" x="542" y="0" width="271" height="304" frameX="0" frameY="0" frameWidth="231" frameHeight="264" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M og dave Idle",
+	"image": "Menu_og_dave",
+	"position": [
+		250,
+		250
+	],
+	"flipX": false,
+	"scale": 0.45,
+	"confirm_anim": "M og dave Idle"
+}

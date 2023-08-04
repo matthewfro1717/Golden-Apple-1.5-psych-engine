@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sad left"
+		},
+		{
+			"offsets": [
+				-28,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sad right"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sad down"
+		},
+		{
+			"offsets": [
+				1,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sad up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "phones fall0017"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "phone",
+			"fps": 24,
+			"name": "phones fall",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/main/applecore/bandu_sad",
+	"position": [
+		-560,
+		-530
+	],
+	"healthicon": "bandu",
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		175,
+		11
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

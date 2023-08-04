@@ -1,0 +1,51 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		230,
+		130
+	],
+	"no_antialiasing": false,
+	"scale": 1.7,
+	"animations": [
+		{
+			"loop_name": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "upset",
+			"anim": "upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bambi"
+}

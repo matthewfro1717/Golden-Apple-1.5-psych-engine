@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "electric_idle",
+	"idle_anim": "electric_idle",
+	"position": [
+		280,
+		130
+	],
+	"scale": 0.7,
+	"image": "Menu_jamb-jambino",
+	"flipX": false
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BAAHDEVYN.png">
+<SubTexture name="Idle0000" x="0" y="0" width="483" height="1000" frameX="0" frameY="0" frameWidth="483" frameHeight="1000" />
+<SubTexture name="Idle0001" x="483" y="0" width="499" height="1000" frameX="0" frameY="0" frameWidth="499" frameHeight="1000" />
+<SubTexture name="Idle0002" x="982" y="0" width="503" height="1000" frameX="0" frameY="0" frameWidth="503" frameHeight="1000" />
+<SubTexture name="Idle0003" x="1485" y="0" width="500" height="1000" frameX="0" frameY="0" frameWidth="500" frameHeight="1000" />
+<SubTexture name="Left0000" x="1985" y="0" width="754" height="1000" frameX="0" frameY="0" frameWidth="754" frameHeight="1000" />
+<SubTexture name="Left0001" x="0" y="1000" width="764" height="1000" frameX="0" frameY="0" frameWidth="764" frameHeight="1000" />
+<SubTexture name="Left0002" x="764" y="1000" width="722" height="1000" frameX="0" frameY="0" frameWidth="722" frameHeight="1000" />
+<SubTexture name="Up0000" x="2487" y="1000" width="530" height="1000" frameX="0" frameY="0" frameWidth="530" frameHeight="1000" />
+<SubTexture name="Up0001" x="0" y="2000" width="517" height="1000" frameX="0" frameY="0" frameWidth="517" frameHeight="1000" />
+<SubTexture name="Up0002" x="517" y="2000" width="545" height="1000" frameX="0" frameY="0" frameWidth="545" frameHeight="1000" />
+<SubTexture name="Right0000" x="1062" y="2000" width="509" height="1000" frameX="0" frameY="0" frameWidth="509" frameHeight="1000" />
+<SubTexture name="Right0001" x="1571" y="2000" width="518" height="1000" frameX="0" frameY="0" frameWidth="518" frameHeight="1000" />
+<SubTexture name="Right0002" x="2089" y="2000" width="498" height="1000" frameX="0" frameY="0" frameWidth="498" frameHeight="1000" />
+<SubTexture name="Down0000" x="1486" y="1000" width="504" height="1000" frameX="0" frameY="0" frameWidth="504" frameHeight="1000" />
+<SubTexture name="Down0001" x="0" y="3000" width="535" height="1000" frameX="0" frameY="0" frameWidth="535" frameHeight="1000" />
+<SubTexture name="Down0002" x="1990" y="1000" width="497" height="1000" frameX="0" frameY="0" frameWidth="497" frameHeight="1000" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				500
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AMEN left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				500
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AMEN down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				500
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AMEN up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				500
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AMEN right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				500
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AMEN amen bamb",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AMEN",
+	"position": [
+		0,
+		-180
+	],
+	"healthicon": "break",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "algebra",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Algebra",
+			"og-dave",
+			[
+				0,
+				193,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"og-dave",
+		"3d-bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

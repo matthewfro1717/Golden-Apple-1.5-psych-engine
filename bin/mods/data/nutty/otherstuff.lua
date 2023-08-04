@@ -1,0 +1,12 @@
+function onCreate()
+	makeAnimatedLuaSprite('Ringi', 'DaRingi', 0, 0)
+        setScrollFactor('Ringi', 0, 0)
+        setProperty('Ringi.antialiasing', false)
+        setProperty('Ringi.alpha', 0)
+        setProperty('space.visible', true)
+	addAnimationByPrefix('Ringi', 'idle', 'Idle',24,true)
+	addAnimationByPrefix('Ringi', 'talking', 'Talking',24,true)
+	addLuaSprite('Ringi', true)
+        setProperty('dad.alpha', 0)
+        setProperty('iconP2.alpha', 0)
+end

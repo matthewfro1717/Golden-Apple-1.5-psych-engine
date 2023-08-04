@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "electric_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				121
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "evil_left"
+		},
+		{
+			"offsets": [
+				-101,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "evil_down"
+		},
+		{
+			"offsets": [
+				-172,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "evil_right"
+		},
+		{
+			"offsets": [
+				140,
+				560
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "evil_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/main/jambino/jamb-jambino",
+	"position": [
+		-210,
+		0
+	],
+	"healthicon": "jambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		51,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

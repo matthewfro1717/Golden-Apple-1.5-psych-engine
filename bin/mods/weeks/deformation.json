@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Deformation",
+			"alge",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "deformation",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"3d-bf",
+		""
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

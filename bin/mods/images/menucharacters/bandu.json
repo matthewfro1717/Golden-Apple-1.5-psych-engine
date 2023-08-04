@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M bandu Idle",
+	"image": "Menu_bandu",
+	"position": [
+		520,
+		520
+	],
+	"flipX": false,
+	"scale": 0.45,
+	"confirm_anim": "M bandu Idle"
+}

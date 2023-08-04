@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M 3D BF Idle",
+	"image": "Menu_3D_BF",
+	"position": [
+		120,
+		30
+	],
+	"flipX": false,
+	"scale": 0.75,
+	"confirm_anim": "M 3D BF Idle"
+}

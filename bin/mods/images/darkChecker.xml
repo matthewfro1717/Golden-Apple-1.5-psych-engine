@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darkChecker.png">
+<SubTexture name="darkChecker0000" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0001" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0002" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0003" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0004" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0005" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0006" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0007" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0008" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0009" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0010" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0011" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0012" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0013" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0014" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0015" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0016" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0017" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0018" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0019" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0020" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0021" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0022" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+<SubTexture name="darkChecker0023" x="0" y="0" width="250" height="176" frameX="0" frameY="0" frameWidth="250" frameHeight="176" />
+</TextureAtlas>

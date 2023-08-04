@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				100
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				14
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-34
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				90
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joke/feels-nice/marcelol",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "marcelol",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		100
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

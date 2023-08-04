@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M BF Idle",
+	"confirm_anim": "M BF Idle",
+	"position": [
+		0,
+		-120
+	],
+	"scale": 5.49999999999999,
+	"flipX": true,
+	"image": "Menu_bfPixel"
+}

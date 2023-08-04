@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="marcelol_evil.png">
+<SubTexture name="idle0000" x="218" y="0" width="146" height="346" frameX="-16" frameY="-13" frameWidth="202" frameHeight="366" />
+<SubTexture name="left0000" x="643" y="0" width="315" height="302" frameX="-28" frameY="-29" frameWidth="362" frameHeight="331" />
+<SubTexture name="right0000" x="0" y="349" width="424" height="288" frameX="-5" frameY="-25" frameWidth="445" frameHeight="313" />
+<SubTexture name="up0000" x="0" y="0" width="218" height="349" frameX="-34" frameY="-50" frameWidth="285" frameHeight="399" />
+<SubTexture name="down0000" x="364" y="0" width="279" height="339" frameX="-20" frameY="-17" frameWidth="326" frameHeight="356" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M marcello Idle",
+	"image": "Menu_marcello",
+	"position": [
+		110,
+		150
+	],
+	"flipX": false,
+	"scale": 0.5,
+	"confirm_anim": "M marcello Idle"
+}
