@@ -373,6 +373,7 @@ function onEvent(name, value1, value2)
 				addAnimationByPrefix('fire', 'idle', 'FlamesBurn0', 24, true)
 				playAnim('fire', 'idle', true)
 				setProperty('fire.antialiasing', false)
+	         		setProperty("fire.visible", true)
 				setProperty('fire.scale.x', 1.8)
 				setProperty('fire.scale.y', 1.5)
 				setProperty('fire.alpha', 0.75)
@@ -404,23 +405,90 @@ function onEvent(name, value1, value2)
 		end
 
 		if value2 == 'duel-cheating-bambi-leak' then
-			--1 second static
+			setProperty("fire.visible", false)
+			makeLuaSprite('2d-and-3d', 'appleLeak/dookie/bgs/2d-and-3d/ying and yang makes a comeback', -750, 100)
+			setProperty('2d-and-3d.scale.x', 2.25)
+			setProperty('2d-and-3d.scale.y', 2.25)
+			updateHitbox('2d-and-3d')
+			addLuaSprite('2d-and-3d', false)
 		end
 
 		if value2 == 'wide-bambi-leak' then
-			--2 second static
+			setProperty("fire.visible", false)
+			setProperty("2d-and-3d.visible", false)
+			makeLuaSprite('wide', 'appleLeak/dookie/bgs/wide bambi/dead meme but it funny', -750, 100)
+			setProperty('wide.scale.x', 2.25)
+			setProperty('wide.scale.y', 2.25)
+			updateHitbox('wide')
+			addLuaSprite('wide', false)
 		end
 
 		if value2 == 'screwed-bambi-leak' then
-			--2 second static
+			setProperty("fire.visible", false)
+			setProperty("wide.visible", false)
+			setProperty("2d-and-3d.visible", false)
+			makeLuaSprite('lmfao', 'appleLeak/lmfao/tiles', -750, 100)
+			setProperty('lmfao.scale.x', 2.25)
+			setProperty('lmfao.scale.y', 2.25)
+			updateHitbox('lmfao')
+			addLuaSprite('lmfao', false)
+			makeLuaSprite('platform', 'appleLeak/lmfao/platform', getProperty('lmfao.x') +300, getProperty('lmfao.y') + 350)
+			setProperty('platform.scale.x', 1.75)
+			setProperty('platform.scale.y', 1.75)
+			updateHitbox('platform')
+			addLuaSprite('platform', false)
 		end
 		
 		if value2 == 'among-bambi' then
-			--2 second static
+			setProperty("fire.visible", false)
+			setProperty("wide.visible", false)
+			setProperty("2d-and-3d.visible", false)
+			setProperty("lmfao.visible", false)
+			setProperty("platform.visible", false)
+			makeLuaSprite('clowofe', 'appleLeak/clowofe/spaceThing', -750, 100)
+			setProperty('clowofe.scale.x', 2.25)
+			setProperty('clowofe.scale.y', 2.25)
+			updateHitbox('clowofe')
+			addLuaSprite('clowofe', false)
+			makeLuaSprite('clowofe1', 'appleLeak/clowofe/backgrounder', -750, 100)
+			setProperty('clowofe1.scale.x', 2.25)
+			setProperty('clowofe1.scale.y', 2.25)
+			updateHitbox('clowofe1')
+			addLuaSprite('clowofe1', false)
+			makeLuaSprite('clowofe2', 'appleLeak/clowofe/grounde', getProperty('clowofe1.x') +300, getProperty('clowofe1.y') + 350)
+			setProperty('clowofe2.scale.x', 1.75)
+			setProperty('clowofe2.scale.y', 1.75)
+			updateHitbox('clowofe2')
+			addLuaSprite('clowofe2', false)
+			makeLuaSprite('clowofe3', 'appleLeak/clowofe/tableThings', getProperty('clowofe1.x') -300, getProperty('clowofe1.y') -350)
+			setProperty('clowofe3.scale.x', 1.75)
+			setProperty('clowofe3.scale.y', 1.75)
+			updateHitbox('clowofe3')
+			addLuaSprite('clowofe3', false)
 		end
 
 		if value2 == 'bob-bambi-leak' then
-			--2 second static
+			setProperty("fire.visible", false)
+			setProperty("wide.visible", false)
+			setProperty("2d-and-3d.visible", false)
+			setProperty("lmfao.visible", false)
+			setProperty("platform.visible", false)
+			setProperty("clowofe.visible", false)
+			setProperty("clowofe1.visible", false)
+			setProperty("clowofe2.visible", false)
+			setProperty("clowofe3.visible", false)
+			makeAnimatedLuaSprite('doodlebob', 'appleLeak/dookie/doodlebob/NewTitleMenuBG', -750, 100))
+			addAnimationByPrefix('doodlebob', 'idle', 'TitleMenuSSBG instance 1', 24, true)
+			playAnim('doodlebob', 'idle', true)
+			setProperty('doodlebob.scale.x', 2.25)
+			setProperty('doodlebob.scale.y', 2.25)
+			updateHitbox('doodlebob')
+			addLuaSprite('doodlebob', false)
+			makeLuaSprite('doodlebob1', 'appleLeak/dookie/doodlebob/doodlebob tree', getProperty('doodlebob.x') +300, getProperty('doodlebob.y') + 350)
+			setProperty('doodlebob1.scale.x', 2.25)
+			setProperty('doodlebob1.scale.y', 2.25)
+			updateHitbox('doodlebob1')
+			addLuaSprite('doodlebob1', false)
 		end
 	end
 end
